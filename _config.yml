@@ -4,7 +4,7 @@ SEOTitle: 刀塔阿提斯特的博客 | DA Blog
 header-img: img/post-bg-desk.jpg
 email: desplode@outlook.com
 description: "Time is a question."
-keyword: "nlp, "
+keyword: "nlp"
 url: "http://DotaArtist.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/DotaArtist/DotaArtist.github.io.git" # you code repository
@@ -56,7 +56,7 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 2be7fa24b6198032b0f3                            #生成的clientID
+  clientID: 2be7fa24b6198032b0f3    #生成的clientID
   clientSecret: 96fd2712cc69211fc3103618e092ddd6a91cb865    #生成的clientSecret
   repo: DotaArtist.github.io    #仓库名称
   owner: DotaArtist    #github用户名
