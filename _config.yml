@@ -1,13 +1,13 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: DA Blog
+SEOTitle: 刀塔阿提斯特的博客 | DA Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+email: desplode@outlook.com
+description: "Time is a question."
+keyword: "nlp, "
+url: "http://DotaArtist.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/DotaArtist/DotaArtist.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,13 +18,7 @@ sidebar-avatar: /img/about-me.png      # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
-
+github_username:    DotaArtist
 
 
 
@@ -62,11 +56,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 2be7fa24b6198032b0f3                            #生成的clientID
+  clientSecret: 96fd2712cc69211fc3103618e092ddd6a91cb865    #生成的clientSecret
+  repo: DotaArtist.github.io    #仓库名称
+  owner: DotaArtist    #github用户名
+  admin: DotaArtist
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
