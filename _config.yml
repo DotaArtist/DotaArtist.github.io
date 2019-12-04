@@ -58,7 +58,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 2be7fa24b6198032b0f3    #生成的clientID
   clientSecret: 96fd2712cc69211fc3103618e092ddd6a91cb865    #生成的clientSecret
-  repo: DotaArtist.github.io    #仓库名称
+  repo: DotaArtistBlog    #仓库名称
   owner: DotaArtist    #github用户名
   admin: DotaArtist
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
